@@ -1,6 +1,4 @@
-<p align="center">
-  <b>Hi 👋, I'm Boulekzazel TAYEB</b>
-</p>
+<h1 align="center">Hi 👋, I'm Boulekzazel TAYEB</h1>
 
 <!--
 **Tayebdev/Tayebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
