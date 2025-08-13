@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boulekzazel TAYEB</h1>
 <h3 align="center">A passionate Flutter (Android/iOS) Developer & Machine Learning Engineer from Algeria</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayebdev&label=Profile%20views&color=0e75b6&style=flat" alt="tayebdev" /> </p>
+
 
 
 - 🌱 I’m currently learning **Flutter for self-development and building advanced mobile applications.**
