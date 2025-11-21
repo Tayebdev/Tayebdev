@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative web and mobile application projects**
 
-- 💬 Ask me about **Flutter, Dart, Android, iOS, Machine Learning**
+- 💬 Ask me about **Flutter, Node JS,Dart, Android, iOS, Machine Learning**
 
 - 📫 How to reach me **ttayeb769@gmail.com**
 
