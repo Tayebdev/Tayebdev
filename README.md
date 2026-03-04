@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Boulekzazel TAYEB</h1>
-<h3 align="center">A passionate Flutter (Android/iOS) Developer & Machine Learning Engineer</h3>
+<h3 align="center">Senior Flutter Developer (Android/iOS)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayebdev&label=Profile%20views&color=0e75b6&style=flat" alt="tayebdev" /> </p>
 
+- Senior Flutter Developer with experience building scalable, production-ready mobile applications.
 
+- Specialized in clean architecture, state management (GetX, Provider, Bloc), and performance optimization.
 
-- 🌱 I’m currently learning **Flutter for self-development and building advanced mobile applications.**
+- Experienced in Firebase, REST APIs, WebSockets, Node.js backend integration, and real-time applications.
 
-- 👯 I’m looking to collaborate on **Innovative web and mobile application projects**
+- Strong background in cross-platform development (Android & iOS) with high-quality UI/UX implementation.
 
-- 💬 Ask me about **Flutter, Node JS,Dart, Android, iOS, Machine Learning**
+- Machine Learning Engineer passionate about recommendation systems and intelligent mobile solutions.
 
-- 📫 How to reach me **ttayeb769@gmail.com**
+- I’m open to collaborating on high-impact mobile and full-stack projects.
+
+- Ask me about **Flutter Architecture, Clean Code, State Management, Node.js, Dart, Mobile Performance Optimization, Machine Learning**
+
+- How to reach me **ttayeb769@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
